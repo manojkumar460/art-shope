@@ -8,12 +8,10 @@ const products = [
     { id: 6, name: "Artwork Title 6", price: 50, img: "assets/images/download(6).jpg" },
     { id: 7, name: "Artwork Title 7", price: 50, img: "assets/images/download(7).jpg" },
     { id: 8, name: "Artwork Title 8", price: 50, img: "assets/images/download(8).jpg" },
-    { id: 9, name: "Artwork Title 9", price: 50, img: "assets/images/download(9).jpg" },
-    { id: 10, name: "Artwork Title 10", price: 50, img: "assets/images/download(10).jpg" },
    
 
 
-    // Continue up to product 11
+    
 ];
 
 function viewProduct(id) {
